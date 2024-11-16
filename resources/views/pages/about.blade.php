@@ -143,6 +143,166 @@
                             </div>
                         </div>
                     </div>
+                    <!-- Education Section -->
+                    <div class="bg-white/80 dark:bg-gray-800/80 backdrop-blur-md rounded-3xl shadow-xl p-8"
+                        data-aos="fade-up">
+                        <h2
+                            class="text-2xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent mb-8">
+                            Educational Background
+                        </h2>
+                        <div class="grid md:grid-cols-2 gap-8">
+                            <!-- Education Card -->
+                            <div
+                                class="group bg-white dark:bg-gray-800 rounded-2xl p-6 shadow-lg
+                                                   transform transition-all duration-300 hover:-translate-y-1 hover:shadow-xl">
+                                <div class="flex gap-6">
+                                    <div
+                                        class="flex-shrink-0 w-14 h-14 rounded-xl bg-indigo-100 dark:bg-indigo-900/30
+                                                            flex items-center justify-center group-hover:scale-110 transition-transform">
+                                        <i class="fas fa-graduation-cap text-2xl text-indigo-600 dark:text-indigo-400"></i>
+                                    </div>
+                                    <div>
+                                        <h3
+                                            class="text-xl font-bold text-gray-900 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400">
+                                            Bachelor of Computer Science
+                                        </h3>
+                                        <p class="text-indigo-600 dark:text-indigo-400 mt-1">2015 - 2019</p>
+                                        <p class="mt-4 text-gray-600 dark:text-gray-300">
+                                            University Name
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Education Section -->
+                    <div class="bg-white/80 dark:bg-gray-800/80 backdrop-blur-md rounded-3xl shadow-xl p-8"
+                        data-aos="fade-up">
+                        <h2
+                            class="text-2xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent mb-8">
+                            Educational Background
+                        </h2>
+                        <div class="grid md:grid-cols-2 gap-8">
+                            <!-- Education Card -->
+                            <div
+                                class="group bg-white dark:bg-gray-800 rounded-2xl p-6 shadow-lg
+                               transform transition-all duration-300 hover:-translate-y-1 hover:shadow-xl">
+                                <div class="flex gap-6">
+                                    <div
+                                        class="flex-shrink-0 w-14 h-14 rounded-xl bg-indigo-100 dark:bg-indigo-900/30
+                                        flex items-center justify-center group-hover:scale-110 transition-transform">
+                                        <i class="fas fa-graduation-cap text-2xl text-indigo-600 dark:text-indigo-400"></i>
+                                    </div>
+                                    <div>
+                                        <h3
+                                            class="text-xl font-bold text-gray-900 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400">
+                                            Bachelor of Computer Science
+                                        </h3>
+                                        <p class="text-indigo-600 dark:text-indigo-400 mt-1">2015 - 2019</p>
+                                        <p class="mt-4 text-gray-600 dark:text-gray-300">
+                                            University Name
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Education Section -->
+                    <div class="bg-white/80 dark:bg-gray-800/80 backdrop-blur-md rounded-3xl shadow-xl p-8"
+                        data-aos="fade-up">
+                        <h2
+                            class="text-2xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent mb-8">
+                            Educational Background
+                        </h2>
+                        <div class="grid md:grid-cols-2 gap-8">
+                            <!-- Education Card -->
+                            <div
+                                class="group bg-white dark:bg-gray-800 rounded-2xl p-6 shadow-lg
+                                               transform transition-all duration-300 hover:-translate-y-1 hover:shadow-xl">
+                                <div class="flex gap-6">
+                                    <div
+                                        class="flex-shrink-0 w-14 h-14 rounded-xl bg-indigo-100 dark:bg-indigo-900/30
+                                                        flex items-center justify-center group-hover:scale-110 transition-transform">
+                                        <i class="fas fa-graduation-cap text-2xl text-indigo-600 dark:text-indigo-400"></i>
+                                    </div>
+                                    <div>
+                                        <h3
+                                            class="text-xl font-bold text-gray-900 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400">
+                                            Bachelor of Computer Science
+                                        </h3>
+                                        <p class="text-indigo-600 dark:text-indigo-400 mt-1">2015 - 2019</p>
+                                        <p class="mt-4 text-gray-600 dark:text-gray-300">
+                                            University Name
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Education Section -->
+                    <div class="bg-white/80 dark:bg-gray-800/80 backdrop-blur-md rounded-3xl shadow-xl p-8"
+                        data-aos="fade-up">
+                        <h2
+                            class="text-2xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent mb-8">
+                            Educational Background
+                        </h2>
+                        <div class="grid md:grid-cols-2 gap-8">
+                            <!-- Education Card -->
+                            <div
+                                class="group bg-white dark:bg-gray-800 rounded-2xl p-6 shadow-lg
+                               transform transition-all duration-300 hover:-translate-y-1 hover:shadow-xl">
+                                <div class="flex gap-6">
+                                    <div
+                                        class="flex-shrink-0 w-14 h-14 rounded-xl bg-indigo-100 dark:bg-indigo-900/30
+                                        flex items-center justify-center group-hover:scale-110 transition-transform">
+                                        <i class="fas fa-graduation-cap text-2xl text-indigo-600 dark:text-indigo-400"></i>
+                                    </div>
+                                    <div>
+                                        <h3
+                                            class="text-xl font-bold text-gray-900 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400">
+                                            Bachelor of Computer Science
+                                        </h3>
+                                        <p class="text-indigo-600 dark:text-indigo-400 mt-1">2015 - 2019</p>
+                                        <p class="mt-4 text-gray-600 dark:text-gray-300">
+                                            University Name
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Education Section -->
+                    <div class="bg-white/80 dark:bg-gray-800/80 backdrop-blur-md rounded-3xl shadow-xl p-8"
+                        data-aos="fade-up">
+                        <h2
+                            class="text-2xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent mb-8">
+                            Educational Background
+                        </h2>
+                        <div class="grid md:grid-cols-2 gap-8">
+                            <!-- Education Card -->
+                            <div
+                                class="group bg-white dark:bg-gray-800 rounded-2xl p-6 shadow-lg
+                                               transform transition-all duration-300 hover:-translate-y-1 hover:shadow-xl">
+                                <div class="flex gap-6">
+                                    <div
+                                        class="flex-shrink-0 w-14 h-14 rounded-xl bg-indigo-100 dark:bg-indigo-900/30
+                                                        flex items-center justify-center group-hover:scale-110 transition-transform">
+                                        <i class="fas fa-graduation-cap text-2xl text-indigo-600 dark:text-indigo-400"></i>
+                                    </div>
+                                    <div>
+                                        <h3
+                                            class="text-xl font-bold text-gray-900 dark:text-white group-hover:text-indigo-600 dark:group-hover:text-indigo-400">
+                                            Bachelor of Computer Science
+                                        </h3>
+                                        <p class="text-indigo-600 dark:text-indigo-400 mt-1">2015 - 2019</p>
+                                        <p class="mt-4 text-gray-600 dark:text-gray-300">
+                                            University Name
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
                     <!-- Skills Section -->
                     <div class="bg-white/80 dark:bg-gray-800/80 backdrop-blur-md rounded-3xl shadow-xl p-8"
@@ -157,7 +317,8 @@
                                     class="group bg-white dark:bg-gray-800 rounded-2xl p-6 shadow-lg
                                       transform transition-all duration-300 hover:-translate-y-1 hover:shadow-xl">
                                     <div class="text-center">
-                                        <div class="mb-4 transform transition-transform duration-300 group-hover:scale-110">
+                                        <div
+                                            class="mb-4 transform transition-transform duration-300 group-hover:scale-110">
                                             <i
                                                 class="{{ $skill->icon }} text-4xl
                                                   @if (Str::contains($skill->icon, 'php')) text-indigo-600
@@ -173,7 +334,8 @@
                                         </h3>
 
                                         <!-- Progress Bar -->
-                                        <div class="h-1.5 w-full bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
+                                        <div
+                                            class="h-1.5 w-full bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
                                             <div class="h-full rounded-full transition-all duration-500
                                                     @if (Str::contains($skill->icon, 'php')) bg-indigo-600
                                                     @elseif(Str::contains($skill->icon, 'js')) bg-yellow-500
